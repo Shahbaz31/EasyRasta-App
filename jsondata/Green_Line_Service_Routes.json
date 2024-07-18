@@ -1,0 +1,138 @@
+{
+    "items":[
+        {
+            "SOURCE": "Abdullah chowk",
+            "DESTINATION": "KDA flats",
+            "OUTPUT": ["GREEN LINE"]
+          },
+          {
+            "SOURCE": "KDA flats",
+            "DESTINATION": "karimi chowrangi",
+            "OUTPUT": ["GREEN LINE"]
+          },
+          {
+            "SOURCE": "karimi chowrangi",
+            "DESTINATION": "4K-chowrangi",
+            "OUTPUT": ["GREEN LINE"]
+          },
+          {
+            "SOURCE": "4K-chowrangi",
+            "DESTINATION": "2 minute chowrangi",
+            "OUTPUT": ["GREEN LINE"]
+          },
+          {
+            "SOURCE": "2 minute chowrangi",
+            "DESTINATION": "Aisha complex (road 2400)",
+            "OUTPUT": ["GREEN LINE"]
+          },
+          {
+            "SOURCE": "Aisha complex (road 2400)",
+            "DESTINATION": "power house",
+            "OUTPUT": ["GREEN LINE"]
+          },
+          {
+            "SOURCE": "power house",
+            "DESTINATION": "saleem center (road 4200)",
+            "OUTPUT": ["GREEN LINE"]
+          },
+          {
+            "SOURCE": "saleem center (road 4200)",
+            "DESTINATION": "UP mor",
+            "OUTPUT": ["GREEN LINE"]
+          },
+          {
+            "SOURCE": "UP mor",
+            "DESTINATION": "Erum shopping (shadman no 2)",
+            "OUTPUT": ["GREEN LINE"]
+          },
+          {
+            "SOURCE": "Erum shopping (shadman no 2)",
+            "DESTINATION": "jummah bazar (Bayani center)",
+            "OUTPUT": ["GREEN LINE"]
+          },
+          {
+            "SOURCE": "jummah bazar (Bayani center)",
+            "DESTINATION": "five star chowrangi",
+            "OUTPUT": ["GREEN LINE"]
+          },
+          {
+            "SOURCE": "five star chowrangi",
+            "DESTINATION": "hydri",
+            "OUTPUT": ["GREEN LINE"]
+          },
+          {
+            "SOURCE": "hydri",
+            "DESTINATION": "Annu bhai park",
+            "OUTPUT": ["GREEN LINE"]
+          },
+          {
+            "SOURCE": "Annu bhai park",
+            "DESTINATION": "inquiry office",
+            "OUTPUT": ["GREEN LINE"]
+          },
+          {
+            "SOURCE": "inquiry office",
+            "DESTINATION": "Nazimabad no 1",
+            "OUTPUT": ["GREEN LINE"]
+          },
+          {
+            "SOURCE": "Nazimabad no 1",
+            "DESTINATION": "Liaquatabad",
+            "OUTPUT": ["GREEN LINE"]
+          },
+          {
+            "SOURCE": "Liaquatabad",
+            "DESTINATION": "sanitary market (gulbahar)",
+            "OUTPUT": ["GREEN LINE"]
+          },
+          {
+            "SOURCE": "sanitary market (gulbahar)",
+            "DESTINATION": "lasbela chowk",
+            "OUTPUT": ["GREEN LINE"]
+          },
+          {
+            "SOURCE": "lasbela chowk",
+            "DESTINATION": "patel para (gurumandir)",
+            "OUTPUT": ["GREEN LINE"]
+          },
+          {
+            "SOURCE": "patel para (gurumandir)",
+            "DESTINATION": "Numaish",
+            "OUTPUT": ["GREEN LINE"]
+          },
+          {
+            "SOURCE": "Numaish",
+            "DESTINATION": "sea breeze",
+            "OUTPUT": ["GREEN LINE"]
+          },
+          {
+            "SOURCE": "sea breeze",
+            "DESTINATION": "gul plaza",
+            "OUTPUT": ["GREEN LINE"]
+          },
+          {
+            "SOURCE": "gul plaza",
+            "DESTINATION": "muncipal park",
+            "OUTPUT": ["GREEN LINE"]
+          },
+          {
+            "SOURCE": "muncipal park",
+            "DESTINATION": "jama cloth",
+            "OUTPUT": ["GREEN LINE"]
+          },
+          {
+            "SOURCE": "jama cloth",
+            "DESTINATION": "civil hospital",
+            "OUTPUT": ["GREEN LINE"]
+          },
+          {
+            "SOURCE": "civil hospital",
+            "DESTINATION": "light house",
+            "OUTPUT": ["GREEN LINE"]
+          },
+          {
+            "SOURCE": "light house",
+            "DESTINATION": "Tower",
+            "OUTPUT": ["GREEN LINE"]
+          }
+]}

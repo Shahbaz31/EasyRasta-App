@@ -1,0 +1,1634 @@
+{
+    "items":[
+        {
+            "SOURCE": "Ittehad Town",
+            "DESTINATION": "Raees Amrohi",
+            "OUTPUT": ["AWAN COACH"]
+          },
+          {
+            "SOURCE": "Raees Amrohi Colony",
+            "DESTINATION": "Chishti Nagar",
+            "OUTPUT": ["AWAN COACH"]
+          },
+          {
+            "SOURCE": "Chishti Nagar",
+            "DESTINATION": "Orangi No. 5",
+            "OUTPUT": ["AWAN COACH"]
+          },
+          {
+            "SOURCE": "Orangi No. 5",
+            "DESTINATION": "Banaras Chowk",
+            "OUTPUT": ["AWAN COACH"]
+          },
+          {
+            "SOURCE": "Banaras Chowk",
+            "DESTINATION": "Habib Bank",
+            "OUTPUT": ["AWAN COACH"]
+          },
+          {
+            "SOURCE": "Habib Bank",
+            "DESTINATION": "Bara Board",
+            "OUTPUT": ["AWAN COACH"]
+          },
+          {
+            "SOURCE": "Bara Board",
+            "DESTINATION": "Garden",
+            "OUTPUT": ["AWAN COACH"]
+          },
+          {
+            "SOURCE": "Garden",
+            "DESTINATION": "Plaza",
+            "OUTPUT": ["AWAN COACH"]
+          },
+          {
+            "SOURCE": "Plaza",
+            "DESTINATION": "Jama Cloth Market",
+            "OUTPUT": ["AWAN COACH"]
+          },
+          {
+            "SOURCE": "Jama Cloth Market",
+            "DESTINATION": "Tower",
+            "OUTPUT": ["AWAN COACH"]
+          },
+          {
+            "SOURCE": "Tower",
+            "DESTINATION": "Keamari",
+            "OUTPUT": ["AWAN COACH"]
+          },
+          {
+            "SOURCE": "Keamari",
+            "DESTINATION": "Shirin Jinnah Colony",
+            "OUTPUT": ["AWAN COACH"]
+          },
+          {
+            "SOURCE": "Shirin Jinnah Colony",
+            "DESTINATION": "Abdullah Shah Ghazi",
+            "OUTPUT": ["AWAN COACH"]
+          },
+          {
+            "SOURCE": "Abdullah Shah Ghazi",
+            "DESTINATION": "Clifton",
+            "OUTPUT": ["AWAN COACH"]
+          },
+          {
+            "SOURCE": "Pehlwan Goth",
+            "DESTINATION": "Gulistan-e-Johar",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "Gulistan-e-Jauhar",
+            "DESTINATION": "Jauhar Square",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "Jauhar Square",
+            "DESTINATION": "Rashid Minhas Road",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "Rashid Minhas Road",
+            "DESTINATION": "NIPA Chowrangi",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "NIPA Chowrangi",
+            "DESTINATION": "Hassan Square",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "Hassan Square",
+            "DESTINATION": "Sabzi Mandi",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "Sabzi Mandi",
+            "DESTINATION": "New Town",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "New Town",
+            "DESTINATION": "Shaheed-e-Millat Chowrangi",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "Shaheed-e-Millat Chowrangi",
+            "DESTINATION": "Islamia College",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "Islamia College",
+            "DESTINATION": "Mazar-e-Quaid",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "Mazar-e-Quaid",
+            "DESTINATION": "Numaish",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "Numaish",
+            "DESTINATION": "M.A Jinnah Road",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "M.A Jinnah Road",
+            "DESTINATION": "Plaza",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "Plaza",
+            "DESTINATION": "Jama Cloth Market",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "Jama Cloth Market",
+            "DESTINATION": "Tower",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "Tower",
+            "DESTINATION": "Mai Kolachi Road",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "Mai Kolachi Road",
+            "DESTINATION": "Boat Basin",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "Boat Basin",
+            "DESTINATION": "Kharkar Chowrangi",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "Kharkar Chowrangi",
+            "DESTINATION": "Bilawal House",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "Bilawal House",
+            "DESTINATION": "Samandar Kinara",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "Samandar Kinara",
+            "DESTINATION": "Abdullah Shah Ghazi Road",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "Abdullah Shah Ghazi Road",
+            "DESTINATION": "Traffic Police Chowki",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "Traffic Police Chowki",
+            "DESTINATION": "26th Street",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "26th Street",
+            "DESTINATION": "Saudi Embassy",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "Saudi Embassy",
+            "DESTINATION": "Khayaban-e-Hafiz",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "Khayaban-e-Hafiz",
+            "DESTINATION": "Sultan Masjid",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "Sultan Masjid",
+            "DESTINATION": "Khayaban-e-Baharia",
+            "OUTPUT": ["GULISTAN COACH"]
+          },
+          {
+            "SOURCE": "Khayaban-e-Baharia",
+            "DESTINATION": "Khayaban-e-Ittehad",
+            "OUTPUT": ["GULISTAN COACH"]
+          }
+ ,
+ {
+    "SOURCE": "Khayaban-e-Ittehad",
+    "DESTINATION": "Korangi Road",
+    "OUTPUT": ["GULISTAN COACH"]
+  },
+  {
+    "SOURCE": "Korangi Road",
+    "DESTINATION": "Qayyumabad",
+    "OUTPUT": ["GULISTAN COACH"]
+  },
+  {
+    "SOURCE": "Ittehad Town",
+    "DESTINATION": "Fareed Colony",
+    "OUTPUT": ["BILAL COACH"]
+  },
+  {
+    "SOURCE": "Fareed Colony",
+    "DESTINATION": "Mominabad",
+    "OUTPUT": ["BILAL COACH"]
+  },
+  {
+    "SOURCE": "Mominabad",
+    "DESTINATION": "Badar Hotel",
+    "OUTPUT": ["BILAL COACH"]
+  },
+  {
+    "SOURCE": "Badar Hotel",
+    "DESTINATION": "Orangi No.5",
+    "OUTPUT": ["BILAL COACH"]
+  },
+  {
+    "SOURCE": "Orangi No.5",
+    "DESTINATION": "Metro Banaras",
+    "OUTPUT": ["BILAL COACH"]
+  },
+  {
+    "SOURCE": "Metro Banaras",
+    "DESTINATION": "Habib Bank",
+    "OUTPUT": ["BILAL COACH"]
+  },
+  {
+    "SOURCE": "Habib Bank",
+    "DESTINATION": "Nazimabad Petrol Pump",
+    "OUTPUT": ["BILAL COACH"]
+  },
+  {
+    "SOURCE": "Nazimabad Petrol Pump",
+    "DESTINATION": "Liaquatabad-10",
+    "OUTPUT": ["BILAL COACH"]
+  },
+  {
+    "SOURCE": "Liaquatabad-10",
+    "DESTINATION": "Hassan Square",
+    "OUTPUT": ["BILAL COACH"]
+  },
+  {
+    "SOURCE": "Hassan Square",
+    "DESTINATION": "New Town",
+    "OUTPUT": ["BILAL COACH"]
+  },
+  {
+    "SOURCE": "New Town",
+    "DESTINATION": "Jail Chowrangi",
+    "OUTPUT": ["BILAL COACH"]
+  },
+  {
+    "SOURCE": "Jail Chowrangi",
+    "DESTINATION": "Shaheed-e-Millat Road",
+    "OUTPUT": ["BILAL COACH"]
+  },
+  {
+    "SOURCE": "Shaheed-e-Millat Road",
+    "DESTINATION": "Baluch Colony",
+    "OUTPUT": ["BILAL COACH"]
+  },
+  {
+    "SOURCE": "Baluch Colony",
+    "DESTINATION": "Band Road",
+    "OUTPUT": ["BILAL COACH"]
+  },
+  {
+    "SOURCE": "Band Road",
+    "DESTINATION": "Korangi Industrial Area",
+    "OUTPUT": ["BILAL COACH"]
+  },
+  {
+    "SOURCE": "Korangi Industrial Area",
+    "DESTINATION": "Chamra Chowrangi",
+    "OUTPUT": ["BILAL COACH"]
+  },
+  {
+    "SOURCE": "Chamra Chowrangi",
+    "DESTINATION": "Singer Chowrangi",
+    "OUTPUT": ["BILAL COACH"]
+  },
+  {
+    "SOURCE": "Singer Chowrangi",
+    "DESTINATION": "Sharafi Goth",
+    "OUTPUT": ["BILAL COACH"]
+  },
+  {
+    "SOURCE": "Sharafi Goth",
+    "DESTINATION": "Mansehra Colony",
+    "OUTPUT": ["BILAL COACH"]
+  },
+  {
+    "SOURCE": "Mansehra Colony",
+    "DESTINATION": "Dawood Chowrangi",
+    "OUTPUT": ["BILAL COACH"]
+  },
+  {
+    "SOURCE": "Dawood Chowrangi",
+    "DESTINATION": "Gulberg",
+    "OUTPUT": ["BILAL COACH"]
+  },
+  {
+    "SOURCE": "Gulberg",
+    "DESTINATION": "Textile Mills Chowrangi",
+    "OUTPUT": ["BILAL COACH"]
+  },
+  {
+    "SOURCE": "Textile Mills Chowrangi",
+    "DESTINATION": "SESSi Hospital",
+    "OUTPUT": ["BILAL COACH"]
+  },
+  {
+    "SOURCE": "SESSi Hospital",
+    "DESTINATION": "Labour Square",
+    "OUTPUT": ["BILAL COACH"]
+  },
+  {
+    "SOURCE": "Labour Square",
+    "DESTINATION": "Open Space(PMTF Colony)",
+    "OUTPUT": ["BILAL COACH"]
+  },
+  {
+    "SOURCE": "Surjani Town Sector 7",
+    "DESTINATION": "Two Minute Chowrangi",
+    "OUTPUT": ["NEW GHAZI COACH"]
+  },
+  {
+    "SOURCE": "Two Minute Chowrangi",
+    "DESTINATION": "Kala School",
+    "OUTPUT": ["NEW GHAZI COACH"]
+  },
+  {
+    "SOURCE": "Kala School",
+    "DESTINATION": "D-Mor",
+    "OUTPUT": ["NEW GHAZI COACH"]
+  },
+  {
+    "SOURCE": "D-Mor",
+    "DESTINATION": "Sindhi Hotel No.5",
+    "OUTPUT": ["NEW GHAZI COACH"]
+  },
+  {
+    "SOURCE": "Sindhi Hotel No.5",
+    "DESTINATION": "Godhra Power House",
+    "OUTPUT": ["NEW GHAZI COACH"]
+  },
+  {
+    "SOURCE": "Godhra Power House",
+    "DESTINATION": "Sohrab Goth",
+    "OUTPUT": ["NEW GHAZI COACH"]
+  },
+  {
+    "SOURCE": "Sohrab Goth",
+    "DESTINATION": "Water Pump",
+    "OUTPUT": ["NEW GHAZI COACH"]
+  },
+  {
+    "SOURCE": "Water Pump",
+    "DESTINATION": "Karimabad",
+    "OUTPUT": ["NEW GHAZI COACH"]
+  },
+  {
+    "SOURCE": "Karimabad",
+    "DESTINATION": "Liaquatabad-10",
+    "OUTPUT": ["NEW GHAZI COACH"]
+  },
+  {
+    "SOURCE": "Liaquatabad-10",
+    "DESTINATION": "Hassan Square",
+    "OUTPUT": ["NEW GHAZI COACH"]
+  },
+  {
+    "SOURCE": "Hassan Square",
+    "DESTINATION": "New Town",
+    "OUTPUT": ["NEW GHAZI COACH"]
+  },
+  {
+    "SOURCE": "New Town",
+    "DESTINATION": "Bahadurabad",
+    "OUTPUT": ["NEW GHAZI COACH"]
+  },
+  {
+    "SOURCE": "Bahadurabad",
+    "DESTINATION": "Tariq Road",
+    "OUTPUT": ["NEW GHAZI COACH"]
+  },
+  {
+    "SOURCE": "Tariq Road",
+    "DESTINATION": "Society",
+    "OUTPUT": ["NEW GHAZI COACH"]
+  },
+  {
+    "SOURCE": "Society",
+    "DESTINATION": "Shahrah-e-Quaideen",
+    "OUTPUT": ["NEW GHAZI COACH"]
+  },
+  {
+    "SOURCE": "Shahrah-e-Quaideen",
+    "DESTINATION": "Nursery",
+    "OUTPUT": ["NEW GHAZI COACH"]
+  }
+ ,
+ {
+    "SOURCE": "Nursery",
+    "DESTINATION": "FTC",
+    "OUTPUT": ["NEW GHAZI COACH"]
+  },
+  {
+    "SOURCE": "FTC",
+    "DESTINATION": "Taj Mehal Hotel",
+    "OUTPUT": ["NEW GHAZI COACH"]
+  },
+  {
+    "SOURCE": "Taj Mehal Hotel",
+    "DESTINATION": "Jinnah Hospital",
+    "OUTPUT": ["NEW GHAZI COACH"]
+  },
+  {
+    "SOURCE": "Jinnah Hospital",
+    "DESTINATION": "Cantt. Station",
+    "OUTPUT": ["NEW GHAZI COACH"]
+  },
+  {
+    "SOURCE": "Cantt. Station",
+    "DESTINATION": "Ch. Khaliq-uz-Zaman Road",
+    "OUTPUT": ["NEW GHAZI COACH"]
+  },
+  {
+    "SOURCE": "Ch. Khaliq-uz-Zaman Road",
+    "DESTINATION": "Gizri",
+    "OUTPUT": ["NEW GHAZI COACH"]
+  },
+  {
+    "SOURCE": "Gizri",
+    "DESTINATION": "Saudi Embassy",
+    "OUTPUT": ["NEW GHAZI COACH"]
+  },
+  {
+    "SOURCE": "Saudi Embassy",
+    "DESTINATION": "Clifton (Ashrafi Masjid)",
+    "OUTPUT": ["NEW GHAZI COACH"]
+  },
+  {
+    "SOURCE": "Ittehad Town",
+    "DESTINATION": "Saeedabad Sector-4",
+    "OUTPUT": ["ILLYAS COACH"]
+  },
+  {
+    "SOURCE": "Saeedabad Sector-4",
+    "DESTINATION": "Daba Mor",
+    "OUTPUT": ["ILLYAS COACH"]
+  },
+  {
+    "SOURCE": "Daba Mor",
+    "DESTINATION": "Hub River Road",
+    "OUTPUT": ["ILLYAS COACH"]
+  },
+  {
+    "SOURCE": "Hub River Road",
+    "DESTINATION": "Shershah",
+    "OUTPUT": ["ILLYAS COACH"]
+  },
+  {
+    "SOURCE": "Shershah",
+    "DESTINATION": "Gulbai",
+    "OUTPUT": ["ILLYAS COACH"]
+  },
+  {
+    "SOURCE": "Gulbai",
+    "DESTINATION": "Khoja Jamat Khana",
+    "OUTPUT": ["ILLYAS COACH"]
+  },
+  {
+    "SOURCE": "Khoja Jamat Khana",
+    "DESTINATION": "Qamar House",
+    "OUTPUT": ["ILLYAS COACH"]
+  },
+  {
+    "SOURCE": "Qamar House",
+    "DESTINATION": "Macleod Road",
+    "OUTPUT": ["ILLYAS COACH"]
+  },
+  {
+    "SOURCE": "Macleod Road",
+    "DESTINATION": "Shaheen Complex",
+    "OUTPUT": ["ILLYAS COACH"]
+  },
+  {
+    "SOURCE": "Shaheen Complex",
+    "DESTINATION": "PIDC House",
+    "OUTPUT": ["ILLYAS COACH"]
+  },
+  {
+    "SOURCE": "PIDC House",
+    "DESTINATION": "Cantt P.O.",
+    "OUTPUT": ["ILLYAS COACH"]
+  },
+  {
+    "SOURCE": "Cantt P.O.",
+    "DESTINATION": "Ch. Khaliq-uz-Zaman Road",
+    "OUTPUT": ["ILLYAS COACH"]
+  },
+  {
+    "SOURCE": "Ch. Khaliq-uz-Zaman Road",
+    "DESTINATION": "Punjab Colony",
+    "OUTPUT": ["ILLYAS COACH"]
+  },
+  {
+    "SOURCE": "Punjab Colony",
+    "DESTINATION": "Sunset Boulevard",
+    "OUTPUT": ["ILLYAS COACH"]
+  },
+  {
+    "SOURCE": "Sunset Boulevard",
+    "DESTINATION": "Akhtar Colony",
+    "OUTPUT": ["ILLYAS COACH"]
+  },
+  {
+    "SOURCE": "Akhtar Colony",
+    "DESTINATION": "Qayyumabad",
+    "OUTPUT": ["ILLYAS COACH"]
+  },
+  {
+    "SOURCE": "Qayyumabad",
+    "DESTINATION": "Korangi Crossing(Bhittai Colony)",
+    "OUTPUT": ["ILLYAS COACH"]
+  },
+  {
+    "SOURCE": "Korangi Crossing(Bhittai Colony)",
+    "DESTINATION": "Korangi No. 1 to 6",
+    "OUTPUT": ["ILLYAS COACH"]
+  },
+  {
+    "SOURCE": "Korangi No. 1 to 6",
+    "DESTINATION": "Landhi No. 6 to 1(Rice Godown)",
+    "OUTPUT": ["ILLYAS COACH"]
+  },
+  {
+    "SOURCE": "Surjani Town",
+    "DESTINATION": "Bhens Colony",
+    "OUTPUT": ["KHAN COACH"]
+  },
+  {
+    "SOURCE": "Bhens Colony",
+    "DESTINATION": "UP Mor",
+    "OUTPUT": ["KHAN COACH"]
+  },
+  {
+    "SOURCE": "UP Mor",
+    "DESTINATION": "Nagan Chowrangi",
+    "OUTPUT": ["KHAN COACH"]
+  },
+  {
+    "SOURCE": "Nagan Chowrangi",
+    "DESTINATION": "Sakhi Hassan",
+    "OUTPUT": ["KHAN COACH"]
+  },
+  {
+    "SOURCE": "Sakhi Hassan",
+    "DESTINATION": "Hyderi",
+    "OUTPUT": ["KHAN COACH"]
+  },
+  {
+    "SOURCE": "Hyderi",
+    "DESTINATION": "Board Office",
+    "OUTPUT": ["KHAN COACH"]
+  },
+  {
+    "SOURCE": "Board Office",
+    "DESTINATION": "Petrol Pump",
+    "OUTPUT": ["KHAN COACH"]
+  },
+  {
+    "SOURCE": "Petrol Pump",
+    "DESTINATION": "Golimar",
+    "OUTPUT": ["KHAN COACH"]
+  },
+  {
+    "SOURCE": "Golimar",
+    "DESTINATION": "Lasbella",
+    "OUTPUT": ["KHAN COACH"]
+  },
+  {
+    "SOURCE": "Lasbella",
+    "DESTINATION": "Mazar-e-Quaid",
+    "OUTPUT": ["KHAN COACH"]
+  },
+  {
+    "SOURCE": "Mazar-e-Quaid",
+    "DESTINATION": "M.A Jinnah Road",
+    "OUTPUT": ["KHAN COACH"]
+  },
+  {
+    "SOURCE": "M.A Jinnah Road",
+    "DESTINATION": "Tower",
+    "OUTPUT": ["KHAN COACH"]
+  },
+  {
+    "SOURCE": "Tower",
+    "DESTINATION": "Mai Kolachi",
+    "OUTPUT": ["KHAN COACH"]
+  }
+ ,
+ {
+    "SOURCE": "Mai Kolachi",
+    "DESTINATION": "Clifton Sea View",
+    "OUTPUT": ["KHAN COACH"]
+  },
+  {
+    "SOURCE": "Ittehad Town",
+    "DESTINATION": "Raees Amrohi",
+    "OUTPUT": ["SEVEN STAR COACH"]
+  },
+  {
+    "SOURCE": "Raees Amrohi",
+    "DESTINATION": "Orangi No. 11.5",
+    "OUTPUT": ["SEVEN STAR COACH"]
+  },
+  {
+    "SOURCE": "Orangi No. 11.5",
+    "DESTINATION": "Orangi Town 5 number",
+    "OUTPUT": ["SEVEN STAR COACH"]
+  },
+  {
+    "SOURCE": "Orangi Town 5 number",
+    "DESTINATION": "Metro Cinema",
+    "OUTPUT": ["SEVEN STAR COACH"]
+  },
+  {
+    "SOURCE": "Metro Cinema",
+    "DESTINATION": "Banaras Chowk",
+    "OUTPUT": ["SEVEN STAR COACH"]
+  },
+  {
+    "SOURCE": "Banaras Chowk",
+    "DESTINATION": "Habib Bank",
+    "OUTPUT": ["SEVEN STAR COACH"]
+  },
+  {
+    "SOURCE": "Habib Bank",
+    "DESTINATION": "Nazimabad Petrol Pump",
+    "OUTPUT": ["SEVEN STAR COACH"]
+  },
+  {
+    "SOURCE": "Nazimabad Petrol Pump",
+    "DESTINATION": "Liaquatabad-10",
+    "OUTPUT": ["SEVEN STAR COACH"]
+  },
+  {
+    "SOURCE": "Liaquatabad-10",
+    "DESTINATION": "Hassan Square",
+    "OUTPUT": ["SEVEN STAR COACH"]
+  },
+  {
+    "SOURCE": "Hassan Square",
+    "DESTINATION": "National Stadium",
+    "OUTPUT": ["SEVEN STAR COACH"]
+  },
+  {
+    "SOURCE": "National Stadium",
+    "DESTINATION": "Shahrah-e-Faisal",
+    "OUTPUT": ["SEVEN STAR COACH"]
+  },
+  {
+    "SOURCE": "Shahrah-e-Faisal",
+    "DESTINATION": "Star Gate",
+    "OUTPUT": ["SEVEN STAR COACH"]
+  },
+  {
+    "SOURCE": "Star Gate",
+    "DESTINATION": "Malir Halt",
+    "OUTPUT": ["SEVEN STAR COACH"]
+  },
+  {
+    "SOURCE": "Malir Halt",
+    "DESTINATION": "Kala Board",
+    "OUTPUT": ["SEVEN STAR COACH"]
+  },
+  {
+    "SOURCE": "Kala Board",
+    "DESTINATION": "Malir Tanki",
+    "OUTPUT": ["SEVEN STAR COACH"]
+  },
+  {
+    "SOURCE": "Malir Tanki",
+    "DESTINATION": "Khokhrapar",
+    "OUTPUT": ["SEVEN STAR COACH"]
+  },
+  {
+    "SOURCE": "Al Azam Town",
+    "DESTINATION": "Sohrab Goth",
+    "OUTPUT": ["SUPER HASSAN ZAI COACH"]
+  },
+  {
+    "SOURCE": "Sohrab Goth",
+    "DESTINATION": "Moti Mehal",
+    "OUTPUT": ["SUPER HASSAN ZAI COACH"]
+  },
+  {
+    "SOURCE": "Moti Mehal",
+    "DESTINATION": "NIPA",
+    "OUTPUT": ["SUPER HASSAN ZAI COACH"]
+  },
+  {
+    "SOURCE": "NIPA",
+    "DESTINATION": "Civic Centre",
+    "OUTPUT": ["SUPER HASSAN ZAI COACH"]
+  },
+  {
+    "SOURCE": "Civic Centre",
+    "DESTINATION": "Sabzi Mandi",
+    "OUTPUT": ["SUPER HASSAN ZAI COACH"]
+  },
+  {
+    "SOURCE": "Sabzi Mandi",
+    "DESTINATION": "Jail Chowrangi",
+    "OUTPUT": ["SUPER HASSAN ZAI COACH"]
+  },
+  {
+    "SOURCE": "Jail Chowrangi",
+    "DESTINATION": "Khalid Bin Waleed Road",
+    "OUTPUT": ["SUPER HASSAN ZAI COACH"]
+  },
+  {
+    "SOURCE": "Khalid Bin Waleed Road",
+    "DESTINATION": "Shahrah-e-Quaideen",
+    "OUTPUT": ["SUPER HASSAN ZAI COACH"]
+  },
+  {
+    "SOURCE": "Shahrah-e-Quaideen",
+    "DESTINATION": "Nursery",
+    "OUTPUT": ["SUPER HASSAN ZAI COACH"]
+  },
+  {
+    "SOURCE": "Nursery",
+    "DESTINATION": "Shahrah-e-Faisal",
+    "OUTPUT": ["SUPER HASSAN ZAI COACH"]
+  },
+  {
+    "SOURCE": "Shahrah-e-Faisal",
+    "DESTINATION": "FTC",
+    "OUTPUT": ["SUPER HASSAN ZAI COACH"]
+  },
+  {
+    "SOURCE": "FTC",
+    "DESTINATION": "Taj Mehal Hotel",
+    "OUTPUT": ["SUPER HASSAN ZAI COACH"]
+  },
+  {
+    "SOURCE": "Taj Mehal Hotel",
+    "DESTINATION": "Jinnah Hospital",
+    "OUTPUT": ["SUPER HASSAN ZAI COACH"]
+  },
+  {
+    "SOURCE": "Jinnah Hospital",
+    "DESTINATION": "Cantt Station",
+    "OUTPUT": ["SUPER HASSAN ZAI COACH"]
+  },
+  {
+    "SOURCE": "Cantt Station",
+    "DESTINATION": "Teen Talwar",
+    "OUTPUT": ["SUPER HASSAN ZAI COACH"]
+  },
+  {
+    "SOURCE": "Teen Talwar",
+    "DESTINATION": "Mid-East Hospital",
+    "OUTPUT": ["SUPER HASSAN ZAI COACH"]
+  },
+  {
+    "SOURCE": "Mid-East Hospital",
+    "DESTINATION": "Kothari Parade(Min Clifton)",
+    "OUTPUT": ["SUPER HASSAN ZAI COACH"]
+  },
+  {
+    "SOURCE": "Kothari Parade(Min Clifton)",
+    "DESTINATION": "KDA Asphalt Plant",
+    "OUTPUT": ["SUPER HASSAN ZAI COACH"]
+  },
+  {
+    "SOURCE": "KDA Asphalt Plant",
+    "DESTINATION": "Shirin Jinnah Colony",
+    "OUTPUT": ["SUPER HASSAN ZAI COACH"]
+  },
+  {
+    "SOURCE": "Pica Daily Cinema",
+    "DESTINATION": "Safoora Goth",
+    "OUTPUT": ["SHERAZ COACH"]
+  },
+  {
+    "SOURCE": "Safoora Goth",
+    "DESTINATION": "University Road",
+    "OUTPUT": ["SHERAZ COACH"]
+  },
+  {
+    "SOURCE": "University Road",
+    "DESTINATION": "Safari Park",
+    "OUTPUT": ["SHERAZ COACH"]
+  },
+  {
+    "SOURCE": "Safari Park",
+    "DESTINATION": "NIPA",
+    "OUTPUT": ["SHERAZ COACH"]
+  },
+  {
+    "SOURCE": "NIPA",
+    "DESTINATION": "Urdu College",
+    "OUTPUT": ["SHERAZ COACH"]
+  },
+  {
+    "SOURCE": "Urdu College",
+    "DESTINATION": "Hassan Square",
+    "OUTPUT": ["SHERAZ COACH"]
+  },
+  {
+    "SOURCE": "Hassan Square",
+    "DESTINATION": "Sabzi Mandi",
+    "OUTPUT": ["SHERAZ COACH"]
+  },
+  {
+    "SOURCE": "Sabzi Mandi",
+    "DESTINATION": "New Town",
+    "OUTPUT": ["SHERAZ COACH"]
+  }
+ ,
+ {
+    "SOURCE": "New Town",
+    "DESTINATION": "Jail Road",
+    "OUTPUT": ["SHERAZ COACH"]
+  },
+  {
+    "SOURCE": "Jail Road",
+    "DESTINATION": "Mazar-e-Quaid",
+    "OUTPUT": ["SHERAZ COACH"]
+  },
+  {
+    "SOURCE": "Mazar-e-Quaid",
+    "DESTINATION": "Old Numaish",
+    "OUTPUT": ["SHERAZ COACH"]
+  },
+  {
+    "SOURCE": "Old Numaish",
+    "DESTINATION": "Bunder Road",
+    "OUTPUT": ["SHERAZ COACH"]
+  },
+  {
+    "SOURCE": "Bunder Road",
+    "DESTINATION": "Plaza Jama Cloth",
+    "OUTPUT": ["SHERAZ COACH"]
+  },
+  {
+    "SOURCE": "Plaza Jama Cloth",
+    "DESTINATION": "Denso Hall",
+    "OUTPUT": ["SHERAZ COACH"]
+  },
+  {
+    "SOURCE": "Denso Hall",
+    "DESTINATION": "Boulten Market",
+    "OUTPUT": ["SHERAZ COACH"]
+  },
+  {
+    "SOURCE": "Boulten Market",
+    "DESTINATION": "Tower",
+    "OUTPUT": ["SHERAZ COACH"]
+  },
+  {
+    "SOURCE": "Tower",
+    "DESTINATION": "Khoja Jamat Khana",
+    "OUTPUT": ["SHERAZ COACH"]
+  },
+  {
+    "SOURCE": "Khoja Jamat Khana",
+    "DESTINATION": "G. Allana",
+    "OUTPUT": ["SHERAZ COACH"]
+  },
+  {
+    "SOURCE": "G. Allana",
+    "DESTINATION": "Gulbai",
+    "OUTPUT": ["SHERAZ COACH"]
+  },
+  {
+    "SOURCE": "Gulbai",
+    "DESTINATION": "Badhni Goth",
+    "OUTPUT": ["SHERAZ COACH"]
+  },
+  {
+    "SOURCE": "Badhni Goth",
+    "DESTINATION": "Cost Guard",
+    "OUTPUT": ["SHERAZ COACH"]
+  },
+  {
+    "SOURCE": "Cost Guard",
+    "DESTINATION": "Hawks Bay",
+    "OUTPUT": ["SHERAZ COACH"]
+  },
+  {
+    "SOURCE": "Muzaffarabad Colony(Landhi)",
+    "DESTINATION": "Gul Ahmed",
+    "OUTPUT": ["MASHRIQ COACH"]
+  },
+  {
+    "SOURCE": "Gul Ahmed",
+    "DESTINATION": "Dawood Chowrangi",
+    "OUTPUT": ["MASHRIQ COACH"]
+  },
+  {
+    "SOURCE": "Dawood Chowrangi",
+    "DESTINATION": "Mansehra Colony",
+    "OUTPUT": ["MASHRIQ COACH"]
+  },
+  {
+    "SOURCE": "Mansehra Colony",
+    "DESTINATION": "Murtaza Chowrangi",
+    "OUTPUT": ["MASHRIQ COACH"]
+  },
+  {
+    "SOURCE": "Murtaza Chowrangi",
+    "DESTINATION": "Singer Chowrangi",
+    "OUTPUT": ["MASHRIQ COACH"]
+  },
+  {
+    "SOURCE": "Singer Chowrangi",
+    "DESTINATION": "Chamra Chowrangi",
+    "OUTPUT": ["MASHRIQ COACH"]
+  },
+  {
+    "SOURCE": "Chamra Chowrangi",
+    "DESTINATION": "Quaidabad",
+    "OUTPUT": ["MASHRIQ COACH"]
+  },
+  {
+    "SOURCE": "Quaidabad",
+    "DESTINATION": "Akhtar Colony",
+    "OUTPUT": ["MASHRIQ COACH"]
+  },
+  {
+    "SOURCE": "Akhtar Colony",
+    "DESTINATION": "Kalapul",
+    "OUTPUT": ["MASHRIQ COACH"]
+  },
+  {
+    "SOURCE": "Kalapul",
+    "DESTINATION": "Jinnah Hospital",
+    "OUTPUT": ["MASHRIQ COACH"]
+  },
+  {
+    "SOURCE": "Jinnah Hospital",
+    "DESTINATION": "Lucky Star",
+    "OUTPUT": ["MASHRIQ COACH"]
+  },
+  {
+    "SOURCE": "Lucky Star",
+    "DESTINATION": "Empress Market",
+    "OUTPUT": ["MASHRIQ COACH"]
+  },
+  {
+    "SOURCE": "Empress Market",
+    "DESTINATION": "7th Day Hospital",
+    "OUTPUT": ["MASHRIQ COACH"]
+  },
+  {
+    "SOURCE": "7th Day Hospital",
+    "DESTINATION": "Garden Pakistan Quarters",
+    "OUTPUT": ["MASHRIQ COACH"]
+  },
+  {
+    "SOURCE": "Garden Pakistan Quarters",
+    "DESTINATION": "Bismillah Hotel",
+    "OUTPUT": ["MASHRIQ COACH"]
+  },
+  {
+    "SOURCE": "Bismillah Hotel",
+    "DESTINATION": "Pak Colony",
+    "OUTPUT": ["MASHRIQ COACH"]
+  },
+  {
+    "SOURCE": "Pak Colony",
+    "DESTINATION": "Frontier Mor",
+    "OUTPUT": ["MASHRIQ COACH"]
+  },
+  {
+    "SOURCE": "Frontier Mor",
+    "DESTINATION": "Mominabad",
+    "OUTPUT": ["MASHRIQ COACH"]
+  }
+ , {
+    "SOURCE": "Mominabad",
+    "DESTINATION": "Faqeer Colony",
+    "OUTPUT": ["MASHRIQ COACH"]
+  },
+  {
+    "SOURCE": "Faqeer Colony",
+    "DESTINATION": "Nai Abadi",
+    "OUTPUT": ["MASHRIQ COACH"]
+  },
+  {
+    "SOURCE": "Nai Abadi",
+    "DESTINATION": "Ittehad Town",
+    "OUTPUT": ["MASHRIQ COACH"]
+  },
+  {
+    "SOURCE": "Gulshan e Hadeed",
+    "DESTINATION": "Pipri",
+    "OUTPUT": ["MUSLIM COACH"]
+  },
+  {
+    "SOURCE": "Pipri",
+    "DESTINATION": "Quaidabad",
+    "OUTPUT": ["MUSLIM COACH"]
+  },
+  {
+    "SOURCE": "Quaidabad",
+    "DESTINATION": "Malir Halt",
+    "OUTPUT": ["MUSLIM COACH"]
+  },
+  {
+    "SOURCE": "Malir Halt",
+    "DESTINATION": "Shahrah-e-Faisal",
+    "OUTPUT": ["MUSLIM COACH"]
+  },
+  {
+    "SOURCE": "Shahrah-e-Faisal",
+    "DESTINATION": "Karsaz",
+    "OUTPUT": ["MUSLIM COACH"]
+  },
+  {
+    "SOURCE": "Karsaz",
+    "DESTINATION": "Nursery",
+    "OUTPUT": ["MUSLIM COACH"]
+  },
+  {
+    "SOURCE": "Nursery",
+    "DESTINATION": "Gora Qabristan",
+    "OUTPUT": ["MUSLIM COACH"]
+  },
+  {
+    "SOURCE": "Gora Qabristan",
+    "DESTINATION": "Jinnah Hospital",
+    "OUTPUT": ["MUSLIM COACH"]
+  },
+  {
+    "SOURCE": "Jinnah Hospital",
+    "DESTINATION": "Askari Apartment",
+    "OUTPUT": ["MUSLIM COACH"]
+  },
+  {
+    "SOURCE": "Askari Apartment",
+    "DESTINATION": "Cantt Station",
+    "OUTPUT": ["MUSLIM COACH"]
+  },
+  {
+    "SOURCE": "Cantt Station",
+    "DESTINATION": "Freer Hall",
+    "OUTPUT": ["MUSLIM COACH"]
+  },
+  {
+    "SOURCE": "Freer Hall",
+    "DESTINATION": "Fawwara Chowk",
+    "OUTPUT": ["MUSLIM COACH"]
+  },
+  {
+    "SOURCE": "Fawwara Chowk",
+    "DESTINATION": "M.A. Jinnah Road",
+    "OUTPUT": ["MUSLIM COACH"]
+  },
+  {
+    "SOURCE": "M.A. Jinnah Road",
+    "DESTINATION": "Talpur Road",
+    "OUTPUT": ["MUSLIM COACH"]
+  },
+  {
+    "SOURCE": "Talpur Road",
+    "DESTINATION": "Shahrah-e-Liaquat",
+    "OUTPUT": ["MUSLIM COACH"]
+  },
+  {
+    "SOURCE": "Shahrah-e-Liaquat",
+    "DESTINATION": "Tower",
+    "OUTPUT": ["MUSLIM COACH"]
+  },
+  {
+    "SOURCE": "Tower",
+    "DESTINATION": "Keamari",
+    "OUTPUT": ["MUSLIM COACH"]
+  },
+  {
+    "SOURCE": "Keamari",
+    "DESTINATION": "Shirin Jinnah Colony",
+    "OUTPUT": ["MUSLIM COACH"]
+  },
+  {
+    "SOURCE": "Shirin Jinnah Colony",
+    "DESTINATION": "Clifton",
+    "OUTPUT": ["MUSLIM COACH"]
+  },
+  {
+    "SOURCE": "Bhens Colony",
+    "DESTINATION": "Labour Square",
+    "OUTPUT": ["MARWAT COACH"]
+  },
+  {
+    "SOURCE": "Labour Square",
+    "DESTINATION": "SESSI Hospital",
+    "OUTPUT": ["MARWAT COACH"]
+  },
+  {
+    "SOURCE": "SESSI Hospital",
+    "DESTINATION": "Landhi Industrial Area",
+    "OUTPUT": ["MARWAT COACH"]
+  },
+  {
+    "SOURCE": "Landhi Industrial Area",
+    "DESTINATION": "Dawood Chowrangi",
+    "OUTPUT": ["MARWAT COACH"]
+  },
+  {
+    "SOURCE": "Dawood Chowrangi",
+    "DESTINATION": "Quaidabad",
+    "OUTPUT": ["MARWAT COACH"]
+  },
+  {
+    "SOURCE": "Quaidabad",
+    "DESTINATION": "Malir 15",
+    "OUTPUT": ["MARWAT COACH"]
+  },
+  {
+    "SOURCE": "Malir 15",
+    "DESTINATION": "Star Gate",
+    "OUTPUT": ["MARWAT COACH"]
+  },
+  {
+    "SOURCE": "Star Gate",
+    "DESTINATION": "Shahrah-e-Faisal",
+    "OUTPUT": ["MARWAT COACH"]
+  },
+  {
+    "SOURCE": "Shahrah-e-Faisal",
+    "DESTINATION": "Nursery",
+    "OUTPUT": ["MARWAT COACH"]
+  },
+  {
+    "SOURCE": "Nursery",
+    "DESTINATION": "Shahrah-e-Quaideen",
+    "OUTPUT": ["MARWAT COACH"]
+  },
+  {
+    "SOURCE": "Shahrah-e-Quaideen",
+    "DESTINATION": "Mazar-e-Quaid",
+    "OUTPUT": ["MARWAT COACH"]
+  },
+  {
+    "SOURCE": "Mazar-e-Quaid",
+    "DESTINATION": "M.A. Jinnah Road",
+    "OUTPUT": ["MARWAT COACH"]
+  },
+  {
+    "SOURCE": "M.A. Jinnah Road",
+    "DESTINATION": "Tower",
+    "OUTPUT": ["MARWAT COACH"]
+  },
+  {
+    "SOURCE": "Tower",
+    "DESTINATION": "G. Allana Road",
+    "OUTPUT": ["MARWAT COACH"]
+  },
+  {
+    "SOURCE": "G. Allana Road",
+    "DESTINATION": "Gulbai",
+    "OUTPUT": ["MARWAT COACH"]
+  },
+  {
+    "SOURCE": "Gulbai",
+    "DESTINATION": "Shershah",
+    "OUTPUT": ["MARWAT COACH"]
+  },
+  {
+    "SOURCE": "Shershah",
+    "DESTINATION": "Machi Goth",
+    "OUTPUT": ["MARWAT COACH"]
+  },
+  {
+    "SOURCE": "Machi Goth",
+    "DESTINATION": "Naval Colony",
+    "OUTPUT": ["MARWAT COACH"]
+  },
+  {
+    "SOURCE": "Bhens Colony",
+    "DESTINATION": "PMTF",
+    "OUTPUT": ["NEW AFRIDI COACH"]
+  },
+  {
+    "SOURCE": "PMTF",
+    "DESTINATION": "Quaidabad",
+    "OUTPUT": ["NEW AFRIDI COACH"]
+  },
+
+  {
+    "SOURCE": "Quaidabad",
+    "DESTINATION": "Mansehra Colony",
+    "OUTPUT": ["NEW AFRIDI COACH"]
+  },
+  {
+    "SOURCE": "Mansehra Colony",
+    "DESTINATION": "Murtaza Chowrangi",
+    "OUTPUT": ["NEW AFRIDI COACH"]
+  },
+  {
+    "SOURCE": "Murtaza Chowrangi",
+    "DESTINATION": "Godown Chowrangi",
+    "OUTPUT": ["NEW AFRIDI COACH"]
+  },
+  {
+    "SOURCE": "Godown Chowrangi",
+    "DESTINATION": "Qayyumabad",
+    "OUTPUT": ["NEW AFRIDI COACH"]
+  },
+  {
+    "SOURCE": "Qayyumabad",
+    "DESTINATION": "Defense Mor",
+    "OUTPUT": ["NEW AFRIDI COACH"]
+  },
+  {
+    "SOURCE": "Defense Mor",
+    "DESTINATION": "Punjab Chowrangi",
+    "OUTPUT": ["NEW AFRIDI COACH"]
+  },
+  {
+    "SOURCE": "Punjab Chowrangi",
+    "DESTINATION": "Saudi Embassy",
+    "OUTPUT": ["NEW AFRIDI COACH"]
+  },
+  {
+    "SOURCE": "Saudi Embassy",
+    "DESTINATION": "Abdullah Shah Ghazi",
+    "OUTPUT": ["NEW AFRIDI COACH"]
+  },
+  {
+    "SOURCE": "Abdullah Shah Ghazi",
+    "DESTINATION": "Shirin Jinnah Colony",
+    "OUTPUT": ["NEW AFRIDI COACH"]
+  },
+  {
+    "SOURCE": "Shirin Jinnah Colony",
+    "DESTINATION": "Masan Road",
+    "OUTPUT": ["NEW AFRIDI COACH"]
+  },
+  {
+    "SOURCE": "Masan Road",
+    "DESTINATION": "Keamari Post Office",
+    "OUTPUT": ["NEW AFRIDI COACH"]
+  },
+  {
+    "SOURCE": "Keamari Post Office",
+    "DESTINATION": "Tower",
+    "OUTPUT": ["NEW AFRIDI COACH"]
+  },
+  {
+    "SOURCE": "Tower",
+    "DESTINATION": "Agra Taj Colony",
+    "OUTPUT": ["NEW AFRIDI COACH"]
+  },
+  {
+    "SOURCE": "Agra Taj Colony",
+    "DESTINATION": "Gulbai",
+    "OUTPUT": ["NEW AFRIDI COACH"]
+  },
+  {
+    "SOURCE": "Gulbai",
+    "DESTINATION": "Shershah",
+    "OUTPUT": ["NEW AFRIDI COACH"]
+  },
+  {
+    "SOURCE": "Shershah",
+    "DESTINATION": "SITE Police Station",
+    "OUTPUT": ["NEW AFRIDI COACH"]
+  },
+  {
+    "SOURCE": "SITE Police Station",
+    "DESTINATION": "Habib Chowrangi",
+    "OUTPUT": ["NEW AFRIDI COACH"]
+  },
+  {
+    "SOURCE": "Habib Chowrangi",
+    "DESTINATION": "Metroville",
+    "OUTPUT": ["NEW AFRIDI COACH"]
+  },
+  {
+    "SOURCE": "Metroville",
+    "DESTINATION": "Mominabad",
+    "OUTPUT": ["NEW AFRIDI COACH"]
+  },
+  {
+    "SOURCE": "Mominabad",
+    "DESTINATION": "Faqeer Colony",
+    "OUTPUT": ["NEW AFRIDI COACH"]
+  },
+  {
+    "SOURCE": "Faqeer Colony",
+    "DESTINATION": "Gulshan-e-Ghazi",
+    "OUTPUT": ["NEW AFRIDI COACH"]
+  },
+  {
+    "SOURCE": "Gulshan-e-Ghazi",
+    "DESTINATION": "Fareed Colony",
+    "OUTPUT": ["NEW AFRIDI COACH"]
+  },
+  {
+    "SOURCE": "Taiser Town",
+    "DESTINATION": "Khuda ki Basti",
+    "OUTPUT": ["MEHSOOD COACH"]
+  },
+  {
+    "SOURCE": "Khuda ki Basti",
+    "DESTINATION": "Surjani Town",
+    "OUTPUT": ["MEHSOOD COACH"]
+  },
+  {
+    "SOURCE": "Surjani Town",
+    "DESTINATION": "KDA Site Office",
+    "OUTPUT": ["MEHSOOD COACH"]
+  },
+  {
+    "SOURCE": "KDA Site Office",
+    "DESTINATION": "Surjani Chowrangi",
+    "OUTPUT": ["MEHSOOD COACH"]
+  },
+  {
+    "SOURCE": "Surjani Chowrangi",
+    "DESTINATION": "2 Minutes Chowrangi",
+    "OUTPUT": ["MEHSOOD COACH"]
+  },
+  {
+    "SOURCE": "2 Minutes Chowrangi",
+    "DESTINATION": "Saleem Centre",
+    "OUTPUT": ["MEHSOOD COACH"]
+  },
+  {
+    "SOURCE": "Saleem Centre",
+    "DESTINATION": "UP Mor",
+    "OUTPUT": ["MEHSOOD COACH"]
+  },
+  {
+    "SOURCE": "UP Mor",
+    "DESTINATION": "Nagan Chowrangi",
+    "OUTPUT": ["MEHSOOD COACH"]
+  },
+  {
+    "SOURCE": "Nagan Chowrangi",
+    "DESTINATION": "Buffer Zone",
+    "OUTPUT": ["MEHSOOD COACH"]
+  },
+  {
+    "SOURCE": "Buffer Zone",
+    "DESTINATION": "Power House",
+    "OUTPUT": ["MEHSOOD COACH"]
+  },
+  {
+    "SOURCE": "Power House",
+    "DESTINATION": "Sohrab Goth",
+    "OUTPUT": ["MEHSOOD COACH"]
+  },
+  {
+    "SOURCE": "Sohrab Goth",
+    "DESTINATION": "Fazal Mills",
+    "OUTPUT": ["MEHSOOD COACH"]
+  },
+  {
+    "SOURCE": "Fazal Mills",
+    "DESTINATION": "Gulshan Chowrangi",
+    "OUTPUT": ["MEHSOOD COACH"]
+  },
+  {
+    "SOURCE": "Gulshan Chowrangi",
+    "DESTINATION": "NIPA",
+    "OUTPUT": ["MEHSOOD COACH"]
+  },
+  {
+    "SOURCE": "NIPA",
+    "DESTINATION": "Safari Park",
+    "OUTPUT": ["MEHSOOD COACH"]
+  },
+  {
+    "SOURCE": "Safari Park",
+    "DESTINATION": "Karachi University",
+    "OUTPUT": ["MEHSOOD COACH"]
+  },
+  {
+    "SOURCE": "Karachi University",
+    "DESTINATION": "Mosmiyat",
+    "OUTPUT": ["MEHSOOD COACH"]
+  },
+  {
+    "SOURCE": "Mosmiyat",
+    "DESTINATION": "Safoora Goth",
+    "OUTPUT": ["MEHSOOD COACH"]
+  },
+  {
+    "SOURCE": "Safoora Goth",
+    "DESTINATION": "Race Course",
+    "OUTPUT": ["MEHSOOD COACH"]
+  },
+  {
+    "SOURCE": "Race Course",
+    "DESTINATION": "Check Post No.6",
+    "OUTPUT": ["MEHSOOD COACH"]
+  },
+  {
+    "SOURCE": "Check Post No.6",
+    "DESTINATION": "Model Colony",
+    "OUTPUT": ["MEHSOOD COACH"]
+  },
+  {
+    "SOURCE": "Model Colony",
+    "DESTINATION": "Malir Halt",
+    "OUTPUT": ["MEHSOOD COACH"]
+  },
+  {
+    "SOURCE": "Malir Halt",
+    "DESTINATION": "Kala Board",
+    "OUTPUT": ["MEHSOOD COACH"]
+  }
+ ,
+ {
+    "SOURCE": "Malir City",
+    "DESTINATION": "Malir Mandar",
+    "OUTPUT": ["MEHSOOD COACH"]
+  },
+  {
+    "SOURCE": "Malir Mandar",
+    "DESTINATION": "Quaidabad",
+    "OUTPUT": ["MEHSOOD COACH"]
+  },
+  {
+    "SOURCE": "Quaidabad",
+    "DESTINATION": "Qaddafi Town(Landhi)",
+    "OUTPUT": ["MEHSOOD COACH"]
+  },
+  {
+    "SOURCE": "Raees Goth",
+    "DESTINATION": "Musharaf Colony",
+    "OUTPUT": ["AL-KHAIR COACH"]
+  },
+  {
+    "SOURCE": "Musharaf Colony",
+    "DESTINATION": "Yousuf Goth",
+    "OUTPUT": ["AL-KHAIR COACH"]
+  },
+  {
+    "SOURCE": "Yousuf Goth",
+    "DESTINATION": "Naval Colony",
+    "OUTPUT": ["AL-KHAIR COACH"]
+  },
+  {
+    "SOURCE": "Naval Colony",
+    "DESTINATION": "Moachh Goth",
+    "OUTPUT": ["AL-KHAIR COACH"]
+  },
+  {
+    "SOURCE": "Moachh Goth",
+    "DESTINATION": "Hub River Road",
+    "OUTPUT": ["AL-KHAIR COACH"]
+  },
+  {
+    "SOURCE": "Hub River Road",
+    "DESTINATION": "Sher Shah",
+    "OUTPUT": ["AL-KHAIR COACH"]
+  },
+  {
+    "SOURCE": "Sher Shah",
+    "DESTINATION": "Pankha Hotel",
+    "OUTPUT": ["AL-KHAIR COACH"]
+  },
+  {
+    "SOURCE": "Pankha Hotel",
+    "DESTINATION": "Mira Naka",
+    "OUTPUT": ["AL-KHAIR COACH"]
+  },
+  {
+    "SOURCE": "Mira Naka",
+    "DESTINATION": "lea Market",
+    "OUTPUT": ["AL-KHAIR COACH"]
+  },
+  {
+    "SOURCE": "lea Market",
+    "DESTINATION": "Kharadar",
+    "OUTPUT": ["AL-KHAIR COACH"]
+  },
+  {
+    "SOURCE": "Kharadar",
+    "DESTINATION": "Tower",
+    "OUTPUT": ["AL-KHAIR COACH"]
+  },
+  {
+    "SOURCE": "Tower",
+    "DESTINATION": "Agra Taj",
+    "OUTPUT": ["AL-KHAIR COACH"]
+  },
+  {
+    "SOURCE": "Agra Taj",
+    "DESTINATION": "Machhar Colony",
+    "OUTPUT": ["AL-KHAIR COACH"]
+  },
+  {
+    "SOURCE": "Machhar Colony",
+    "DESTINATION": "Gulbai",
+    "OUTPUT": ["AL-KHAIR COACH"]
+  },
+  {
+    "SOURCE": "Gulbai",
+    "DESTINATION": "New Truck Stand",
+    "OUTPUT": ["AL-KHAIR COACH"]
+  },
+  {
+    "SOURCE": "New Truck Stand",
+    "DESTINATION": "Grax Colony",
+    "OUTPUT": ["AL-KHAIR COACH"]
+  },
+  {
+    "SOURCE": "Grax Colony",
+    "DESTINATION": "Mauripur",
+    "OUTPUT": ["AL-KHAIR COACH"]
+  },
+  {
+    "SOURCE": "Mauripur",
+    "DESTINATION": "Younisabad",
+    "OUTPUT": ["AL-KHAIR COACH"]
+  },
+  {
+    "SOURCE": "Younisabad",
+    "DESTINATION": "Kaka Village",
+    "OUTPUT": ["AL-KHAIR COACH"]
+  },
+  {
+    "SOURCE": "Kaka Village",
+    "DESTINATION": "Hawksbay Road",
+    "OUTPUT": ["AL-KHAIR COACH"]
+  },
+  {
+    "SOURCE": "Hawksbay Road",
+    "DESTINATION": "Scheme 42",
+    "OUTPUT": ["AL-KHAIR COACH"]
+  },
+  {
+    "SOURCE": "Faqeer Muhammad Durra Khan Road",
+    "DESTINATION": "Siddique Wahab Road",
+    "OUTPUT": ["RIND COACH"]
+  },
+  {
+    "SOURCE": "Siddique Wahab Road",
+    "DESTINATION": "Dar-ul-Uloom Rehmania",
+    "OUTPUT": ["RIND COACH"]
+  },
+  {
+    "SOURCE": "Dar-ul-Uloom Rehmania",
+    "DESTINATION": "Chakiwara",
+    "OUTPUT": ["RIND COACH"]
+  },
+  {
+    "SOURCE": "Chakiwara",
+    "DESTINATION": "Mira Naka",
+    "OUTPUT": ["RIND COACH"]
+  },
+  {
+    "SOURCE": "Mira Naka",
+    "DESTINATION": "Pankha Hotel",
+    "OUTPUT": ["RIND COACH"]
+  },
+  {
+    "SOURCE": "Pankha Hotel",
+    "DESTINATION": "Sher Shah Paracha",
+    "OUTPUT": ["RIND COACH"]
+  },
+  {
+    "SOURCE": "Sher Shah Paracha",
+    "DESTINATION": "Baldia No. 2,3 and 4",
+    "OUTPUT": ["RIND COACH"]
+  },
+  {
+    "SOURCE": "Baldia No. 2,3 and 4",
+    "DESTINATION": "Saeedabad",
+    "OUTPUT": ["RIND COACH"]
+  },
+  {
+    "SOURCE": "Saeedabad",
+    "DESTINATION": "Moach Goth",
+    "OUTPUT": ["RIND COACH"]
+  },
+  {
+    "SOURCE": "Moach Goth",
+    "DESTINATION": "Naval Colony",
+    "OUTPUT": ["RIND COACH"]
+  },
+  {
+    "SOURCE": "Naval Colony",
+    "DESTINATION": "Yousuf Goth",
+    "OUTPUT": ["RIND COACH"]
+  },
+  {
+    "SOURCE": "Yousuf Goth",
+    "DESTINATION": "Lucky Stop",
+    "OUTPUT": ["RIND COACH"]
+  },
+  {
+    "SOURCE": "Lucky Stop",
+    "DESTINATION": "Raees Goth Rangers Chowki",
+    "OUTPUT": ["RIND COACH"]
+  }
+]}

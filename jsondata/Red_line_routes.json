@@ -1,0 +1,1050 @@
+{
+    "items":
+[
+    {
+        "SOURCE": "Model colony",
+        "DESTINATION": "Model mor",
+        "OUTPUT": ["R-1"]
+      },
+      {
+        "SOURCE": "Model mor",
+        "DESTINATION": "malir halt",
+        "OUTPUT": ["R-1"]
+      },
+      {
+        "SOURCE": "malir halt",
+        "DESTINATION": "colony gate",
+        "OUTPUT": ["R-1"]
+      },
+      {
+        "SOURCE": "colony gate",
+        "DESTINATION": "nata khan bridge",
+        "OUTPUT": ["R-1"]
+      },
+      {
+        "SOURCE": "nata khan bridge",
+        "DESTINATION": "drigh road station",
+        "OUTPUT": ["R-1"]
+      },
+      {
+        "SOURCE": "drigh road station",
+        "DESTINATION": "PAF Base faisal",
+        "OUTPUT": ["R-1"]
+      },
+      {
+        "SOURCE": "PAF Base faisal",
+        "DESTINATION": "Lal kothi ",
+        "OUTPUT": ["R-1"]
+      },
+      {
+        "SOURCE": "Lal kothi ",
+        "DESTINATION": "Karsaz",
+        "OUTPUT": ["R-1"]
+      },
+      {
+        "SOURCE": "Karsaz",
+        "DESTINATION": "Nursery",
+        "OUTPUT": ["R-1"]
+      },
+      {
+        "SOURCE": "Nursery",
+        "DESTINATION": "FTC",
+        "OUTPUT": ["R-1"]
+      },
+      {
+        "SOURCE": "FTC",
+        "DESTINATION": "Regent plaza",
+        "OUTPUT": ["R-1"]
+      },
+      {
+        "SOURCE": "Regent plaza",
+        "DESTINATION": "Metropole",
+        "OUTPUT": ["R-1"]
+      },
+      {
+        "SOURCE": "Metropole",
+        "DESTINATION": "Fawwara chowk",
+        "OUTPUT": ["R-1"]
+      },
+      {
+        "SOURCE": "Fawwara chowk",
+        "DESTINATION": "Arts council",
+        "OUTPUT": ["R-1"]
+      },
+      {
+        "SOURCE": "Arts council",
+        "DESTINATION": "Shaheen complex",
+        "OUTPUT": ["R-1"]
+      },
+      {
+        "SOURCE": "Shaheen complex",
+        "DESTINATION": "I.I chundrigar road",
+        "OUTPUT": ["R-1"]
+      },
+      {
+        "SOURCE": "I.I chundrigar road",
+        "DESTINATION": "Tower",
+        "OUTPUT": ["R-1"]
+      },
+      {
+        "SOURCE": "Tower",
+        "DESTINATION": "fisheries",
+        "OUTPUT": ["R-1"]
+      },
+      {
+        "SOURCE": "fisheries",
+        "DESTINATION": "Dockyard",
+        "OUTPUT": ["R-1"]
+      },
+      {
+        "SOURCE": "North karachi",
+        "DESTINATION": "UP mor",
+        "OUTPUT": ["R-2"]
+      },
+      {
+        "SOURCE": "UP mor",
+        "DESTINATION": "nagan chowrangi",
+        "OUTPUT": ["R-2"]
+      },
+      {
+        "SOURCE": "nagan chowrangi",
+        "DESTINATION": "shafiq mor",
+        "OUTPUT": ["R-2"]
+      },
+      {
+        "SOURCE": "shafiq mor",
+        "DESTINATION": "sohrab goth",
+        "OUTPUT": ["R-2"]
+      },
+      {
+        "SOURCE": "sohrab goth",
+        "DESTINATION": "gulshan chowrangi",
+        "OUTPUT": ["R-2"]
+      },
+      {
+        "SOURCE": "gulshan chowrangi",
+        "DESTINATION": "NIPA",
+        "OUTPUT": ["R-2"]
+      },
+      {
+        "SOURCE": "NIPA",
+        "DESTINATION": "johar mor",
+        "OUTPUT": ["R-2"]
+      },
+      {
+        "SOURCE": "johar mor",
+        "DESTINATION": "COD",
+        "OUTPUT": ["R-2"]
+      },
+      {
+        "SOURCE": "COD",
+        "DESTINATION": "drigh road station",
+        "OUTPUT": ["R-2"]
+      },
+      {
+        "SOURCE": "drigh road station",
+        "DESTINATION": "colony gate",
+        "OUTPUT": ["R-2"]
+      },
+      {
+        "SOURCE": "colony gate",
+        "DESTINATION": "shah faisal colony",
+        "OUTPUT": ["R-2"]
+      },
+      {
+        "SOURCE": "shah faisal colony",
+        "DESTINATION": "singer chowrangi",
+        "OUTPUT": ["R-2"]
+      },
+      {
+        "SOURCE": "singer chowrangi",
+        "DESTINATION": "Landhi road",
+        "OUTPUT": ["R-2"]
+      },
+      {
+        "SOURCE": "Landhi road",
+        "DESTINATION": "Indus hospital",
+        "OUTPUT": ["R-2"]
+      },
+      {
+        "SOURCE": "power house",
+        "DESTINATION": "UP mor",
+        "OUTPUT": ["R-3"]
+      },
+      {
+        "SOURCE": "UP mor",
+        "DESTINATION": "nagan chowrangi",
+        "OUTPUT": ["R-3"]
+      },
+      {
+        "SOURCE": "nagan chowrangi",
+        "DESTINATION": "sakhi hasan",
+        "OUTPUT": ["R-3"]
+      },
+      {
+        "SOURCE": "sakhi hasan",
+        "DESTINATION": "5 star chowrangi",
+        "OUTPUT": ["R-3"]
+      },
+      {
+        "SOURCE": "5 star chowrangi",
+        "DESTINATION": "KDA chowrangi",
+        "OUTPUT": ["R-3"]
+      },
+      {
+        "SOURCE": "KDA chowrangi",
+        "DESTINATION": "Nazimabad Eid Gah ground",
+        "OUTPUT": ["R-3"]
+      },
+      {
+        "SOURCE": "Nazimabad Eid Gah ground",
+        "DESTINATION": "Liaquatabad 10",
+        "OUTPUT": ["R-3"]
+      },
+      {
+        "SOURCE": "Liaquatabad 10",
+        "DESTINATION": "essa nagri",
+        "OUTPUT": ["R-3"]
+      },
+      {
+        "SOURCE": "essa nagri",
+        "DESTINATION": "civic center",
+        "OUTPUT": ["R-3"]
+      },
+      {
+        "SOURCE": "civic center",
+        "DESTINATION": "national stadium",
+        "OUTPUT": ["R-3"]
+      },
+      {
+        "SOURCE": "national stadium",
+        "DESTINATION": "karsaz",
+        "OUTPUT": ["R-3"]
+      },
+      {
+        "SOURCE": "karsaz",
+        "DESTINATION": "nursery",
+        "OUTPUT": ["R-3"]
+      },
+      {
+        "SOURCE": "nursery",
+        "DESTINATION": "FTC",
+        "OUTPUT": ["R-3"]
+      },
+      {
+        "SOURCE": "FTC",
+        "DESTINATION": "korangi road",
+        "OUTPUT": ["R-3"]
+      },
+      {
+        "SOURCE": "korangi road",
+        "DESTINATION": "KPT interchange",
+        "OUTPUT": ["R-3"]
+      },
+      {
+        "SOURCE": "KPT interchange",
+        "DESTINATION": "shan chowrangi",
+        "OUTPUT": ["R-3"]
+      },
+      {
+        "SOURCE": "power house ",
+        "DESTINATION": "UP mor",
+        "OUTPUT": ["R-4"]
+      },
+      {
+        "SOURCE": "UP mor",
+        "DESTINATION": "nagan chowrangi",
+        "OUTPUT": ["R-4"]
+      },
+      {
+        "SOURCE": "nagan chowrangi",
+        "DESTINATION": "shafiq mor",
+        "OUTPUT": ["R-4"]
+      },
+      {
+        "SOURCE": "shafiq mor",
+        "DESTINATION": "sohrab goth",
+        "OUTPUT": ["R-4"]
+      },
+      {
+        "SOURCE": "sohrab goth",
+        "DESTINATION": "shahrah e Pakistan",
+        "OUTPUT": ["R-4"]
+      },
+      {
+        "SOURCE": "shahrah e Pakistan",
+        "DESTINATION": "Ayesha Manzil",
+        "OUTPUT": ["R-4"]
+      },
+      {
+        "SOURCE": "Ayesha Manzil",
+        "DESTINATION": "Liaquatabad 10",
+        "OUTPUT": ["R-4"]
+      },
+      {
+        "SOURCE": "Liaquatabad 10",
+        "DESTINATION": "Laloo Khait",
+        "OUTPUT": ["R-4"]
+      },
+      {
+        "SOURCE": "Laloo Khait",
+        "DESTINATION": "teen hati",
+        "OUTPUT": ["R-4"]
+      },
+      {
+        "SOURCE": "teen hati",
+        "DESTINATION": "jahangir road",
+        "OUTPUT": ["R-4"]
+      },
+      {
+        "SOURCE": "jahangir road",
+        "DESTINATION": "Numaish",
+        "OUTPUT": ["R-4"]
+      },
+      {
+        "SOURCE": "Numaish",
+        "DESTINATION": "mobile market",
+        "OUTPUT": ["R-4"]
+      },
+      {
+        "SOURCE": "mobile market",
+        "DESTINATION": "urdu bazar",
+        "OUTPUT": ["R-4"]
+      },
+      {
+        "SOURCE": "urdu bazar",
+        "DESTINATION": "civil hospital ",
+        "OUTPUT": ["R-4"]
+      },
+      {
+        "SOURCE": "civil hospital ",
+        "DESTINATION": "city court",
+        "OUTPUT": ["R-4"]
+      },
+      {
+        "SOURCE": "city court",
+        "DESTINATION": "light house",
+        "OUTPUT": ["R-4"]
+      },
+      {
+        "SOURCE": "light house",
+        "DESTINATION": "bolton market",
+        "OUTPUT": ["R-4"]
+      },
+      {
+        "SOURCE": "bolton market",
+        "DESTINATION": "Tower",
+        "OUTPUT": ["R-4"]
+      },
+      {
+        "SOURCE": "gulshan e hadeed",
+        "DESTINATION": "Salah Uddin Ayubi road",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "Salah Uddin Ayubi road",
+        "DESTINATION": "Allah wali chowrangi",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "Allah wali chowrangi",
+        "DESTINATION": "National highway 5",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "National highway 5",
+        "DESTINATION": "steel mill mor",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "steel mill mor",
+        "DESTINATION": "port bin Qasim mor",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "port bin Qasim mor",
+        "DESTINATION": "Razzakabad",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "Razzakabad",
+        "DESTINATION": "Abdullah goth",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "Abdullah goth",
+        "DESTINATION": "chowkundi mor",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "chowkundi mor",
+        "DESTINATION": "Fast university",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "Fast university",
+        "DESTINATION": "Bhains colony mor",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "Bhains colony mor",
+        "DESTINATION": "manzil pump",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "manzil pump",
+        "DESTINATION": "Quaidabad",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "Quaidabad",
+        "DESTINATION": "murghi khana",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "murghi khana",
+        "DESTINATION": "Prince ALY boys school ",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "Prince ALY boys school ",
+        "DESTINATION": "Nadra center Malir",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "Nadra center Malir",
+        "DESTINATION": "Malir session court",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "Malir session court",
+        "DESTINATION": "Malir 15",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "Malir 15",
+        "DESTINATION": "Kalaboard",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "Kalaboard",
+        "DESTINATION": "Malir halt",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "Malir halt",
+        "DESTINATION": "Colony gate",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "Colony gate",
+        "DESTINATION": "Nata khan bridge",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "Nata khan bridge",
+        "DESTINATION": "drigh road station",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "drigh road station",
+        "DESTINATION": "PAF Base Faisal",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "PAF Base Faisal",
+        "DESTINATION": "Laal Kothi",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "Laal Kothi",
+        "DESTINATION": "Karsaz",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "Karsaz",
+        "DESTINATION": "Nursery",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "Nursery",
+        "DESTINATION": "FTC",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "FTC",
+        "DESTINATION": "Regent plaza",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "Regent plaza",
+        "DESTINATION": "Metropole",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "Metropole",
+        "DESTINATION": "fawwra chowk",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "fawwra chowk",
+        "DESTINATION": "Arts council",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "Arts council",
+        "DESTINATION": "Shaheen complex",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "Shaheen complex",
+        "DESTINATION": "I.I chundrigar road",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "I.I chundrigar road",
+        "DESTINATION": "Tower",
+        "OUTPUT": ["R-9"]
+      },
+      {
+        "SOURCE": "numaish",
+        "DESTINATION": "taj complex",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "taj complex",
+        "DESTINATION": "capri cinema",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "capri cinema",
+        "DESTINATION": "mobile market",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "mobile market",
+        "DESTINATION": "regal",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "regal",
+        "DESTINATION": "Abdullah Haroon",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "Abdullah Haroon",
+        "DESTINATION": "zainab market",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "zainab market",
+        "DESTINATION": "fawara chowk",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "fawara chowk",
+        "DESTINATION": "metropole",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "metropole",
+        "DESTINATION": "frere hall",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "frere hall",
+        "DESTINATION": "PSO head office",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "PSO head office",
+        "DESTINATION": "3 talwar",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "3 talwar",
+        "DESTINATION": "ocean mall",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "ocean mall",
+        "DESTINATION": "2 talwar",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "2 talwar",
+        "DESTINATION": "Abdullah shah ghazi mazar",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "Abdullah shah ghazi mazar",
+        "DESTINATION": "bagh Ibn e Qasim",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "bagh Ibn e Qasim",
+        "DESTINATION": "dolmen mall clifton",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "dolmen mall clifton",
+        "DESTINATION": "seaview clock tower",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "seaview clock tower",
+        "DESTINATION": "khayaban e ittehad",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "khayaban e ittehad",
+        "DESTINATION": "DHA phase 7",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "DHA phase 7",
+        "DESTINATION": "DHA phase 6",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "DHA phase 6",
+        "DESTINATION": "DHA phase 2",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "DHA phase 2",
+        "DESTINATION": "kpt interchange",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "kpt interchange",
+        "DESTINATION": "korangi crossing",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "korangi crossing",
+        "DESTINATION": "Indus hospital",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "Indus hospital",
+        "DESTINATION": "CBM University",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "CBM University",
+        "DESTINATION": "PARCO",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "PARCO",
+        "DESTINATION": "Ibrahim hydri",
+        "OUTPUT": ["R-10"]
+      },
+      {
+        "SOURCE": "shireen jinnah colony",
+        "DESTINATION": "bilawal chowrangi",
+        "OUTPUT": ["R-11"]
+      },
+      {
+        "SOURCE": "bilawal chowrangi",
+        "DESTINATION": "26th street",
+        "OUTPUT": ["R-11"]
+      },
+      {
+        "SOURCE": "26th street",
+        "DESTINATION": "Khadda market",
+        "OUTPUT": ["R-11"]
+      },
+      {
+        "SOURCE": "Khadda market",
+        "DESTINATION": "gizri road",
+        "OUTPUT": ["R-11"]
+      },
+      {
+        "SOURCE": "gizri road",
+        "DESTINATION": "submarine chowk",
+        "OUTPUT": ["R-11"]
+      },
+      {
+        "SOURCE": "submarine chowk",
+        "DESTINATION": "Eidgah clifton",
+        "OUTPUT": ["R-11"]
+      },
+      {
+        "SOURCE": "Eidgah clifton",
+        "DESTINATION": "PIDC",
+        "OUTPUT": ["R-11"]
+      },
+      {
+        "SOURCE": "PIDC",
+        "DESTINATION": "Haji camp",
+        "OUTPUT": ["R-11"]
+      },
+      {
+        "SOURCE": "Haji camp",
+        "DESTINATION": "US consulate general",
+        "OUTPUT": ["R-11"]
+      },
+      {
+        "SOURCE": "US consulate general",
+        "DESTINATION": "M.T khan road",
+        "OUTPUT": ["R-11"]
+      },
+      {
+        "SOURCE": "M.T khan road",
+        "DESTINATION": "Mauripur",
+        "OUTPUT": ["R-11"]
+      },
+      {
+        "SOURCE": "Mauripur",
+        "DESTINATION": "keamari",
+        "OUTPUT": ["R-11"]
+      },
+      {
+        "SOURCE": "keamari",
+        "DESTINATION": "Miran nakka liyari",
+        "OUTPUT": ["R-11"]
+      },
+      {
+        "SOURCE": "naddi kinara",
+        "DESTINATION": "khokrapar",
+        "OUTPUT": ["R-12"]
+      },
+      {
+        "SOURCE": "khokrapar",
+        "DESTINATION": "saudabad chowrangi",
+        "OUTPUT": ["R-12"]
+      },
+      {
+        "SOURCE": "saudabad chowrangi",
+        "DESTINATION": "RCD ground",
+        "OUTPUT": ["R-12"]
+      },
+      {
+        "SOURCE": "RCD ground",
+        "DESTINATION": "kalaboard",
+        "OUTPUT": ["R-12"]
+      },
+      {
+        "SOURCE": "kalaboard",
+        "DESTINATION": "Malir 15",
+        "OUTPUT": ["R-12"]
+      },
+      {
+        "SOURCE": "Malir 15",
+        "DESTINATION": "malir mandir",
+        "OUTPUT": ["R-12"]
+      },
+      {
+        "SOURCE": "malir mandir",
+        "DESTINATION": "malir session court",
+        "OUTPUT": ["R-12"]
+      },
+      {
+        "SOURCE": "malir session court",
+        "DESTINATION": "murghi khana",
+        "OUTPUT": ["R-12"]
+      },
+      {
+        "SOURCE": "murghi khana",
+        "DESTINATION": "Quaidabad",
+        "OUTPUT": ["R-12"]
+      },
+      {
+        "SOURCE": "Quaidabad",
+        "DESTINATION": "Dawood chowrangi",
+        "OUTPUT": ["R-12"]
+      },
+      {
+        "SOURCE": "Dawood chowrangi",
+        "DESTINATION": "Babar market",
+        "OUTPUT": ["R-12"]
+      },
+      {
+        "SOURCE": "Babar market",
+        "DESTINATION": "landhi road",
+        "OUTPUT": ["R-12"]
+      },
+      {
+        "SOURCE": "landhi road",
+        "DESTINATION": "nasir jump",
+        "OUTPUT": ["R-12"]
+      },
+      {
+        "SOURCE": "nasir jump",
+        "DESTINATION": "indus hospital",
+        "OUTPUT": ["R-12"]
+      },
+      {
+        "SOURCE": "indus hospital",
+        "DESTINATION": "korangi crossing",
+        "OUTPUT": ["R-12"]
+      },
+      {
+        "SOURCE": "korangi crossing",
+        "DESTINATION": "Qayyumabad",
+        "OUTPUT": ["R-12"]
+      },
+      {
+        "SOURCE": "Qayyumabad",
+        "DESTINATION": "Defence mor",
+        "OUTPUT": ["R-12"]
+      },
+      {
+        "SOURCE": "Defence mor",
+        "DESTINATION": "National Medical Center",
+        "OUTPUT": ["R-12"]
+      },
+      {
+        "SOURCE": "National Medical Center",
+        "DESTINATION": "gora qabristan",
+        "OUTPUT": ["R-12"]
+      },
+      {
+        "SOURCE": "gora qabristan",
+        "DESTINATION": "FTC",
+        "OUTPUT": ["R-12"]
+      },
+      {
+        "SOURCE": "FTC",
+        "DESTINATION": "jutt line",
+        "OUTPUT": ["R-12"]
+      },
+      {
+        "SOURCE": "jutt line",
+        "DESTINATION": "Lines area",
+        "OUTPUT": ["R-12"]
+      },
+      {
+        "SOURCE": "Lines area",
+        "DESTINATION": "Army public school",
+        "OUTPUT": ["R-12"]
+      },
+      {
+        "SOURCE": "Army public school",
+        "DESTINATION": "Lucky star saddar",
+        "OUTPUT": ["R-12"]
+      },
+      {
+        "SOURCE": "CMH malir cantt",
+        "DESTINATION": "Tank chowk",
+        "OUTPUT": ["EV-1"]
+      },
+      {
+        "SOURCE": "Tank chowk",
+        "DESTINATION": "Model colony mor",
+        "OUTPUT": ["EV-1"]
+      },
+      {
+        "SOURCE": "Model colony mor",
+        "DESTINATION": "jinnah avenue",
+        "OUTPUT": ["EV-1"]
+      },
+      {
+        "SOURCE": "jinnah avenue",
+        "DESTINATION": "Airport",
+        "OUTPUT": ["EV-1"]
+      },
+      {
+        "SOURCE": "Airport",
+        "DESTINATION": "colony gate",
+        "OUTPUT": ["EV-1"]
+      },
+      {
+        "SOURCE": "colony gate",
+        "DESTINATION": "nata khan bridge",
+        "OUTPUT": ["EV-1"]
+      },
+      {
+        "SOURCE": "nata khan bridge",
+        "DESTINATION": "drigh road station",
+        "OUTPUT": ["EV-1"]
+      },
+      {
+        "SOURCE": "drigh road station",
+        "DESTINATION": "PAF base faisal",
+        "OUTPUT": ["EV-1"]
+      },
+      {
+        "SOURCE": "PAF base faisal",
+        "DESTINATION": "laal kothi",
+        "OUTPUT": ["EV-1"]
+      },
+      {
+        "SOURCE": "laal kothi",
+        "DESTINATION": "karsaz",
+        "OUTPUT": ["EV-1"]
+      },
+      {
+        "SOURCE": "karsaz",
+        "DESTINATION": "Nursery ",
+        "OUTPUT": ["EV-1"]
+      },
+      {
+        "SOURCE": "Nursery ",
+        "DESTINATION": "FTC",
+        "OUTPUT": ["EV-1"]
+      },
+      {
+        "SOURCE": "FTC",
+        "DESTINATION": "korangi road",
+        "OUTPUT": ["EV-1"]
+      },
+      {
+        "SOURCE": "korangi road",
+        "DESTINATION": "DHA phase 1",
+        "OUTPUT": ["EV-1"]
+      },
+      {
+        "SOURCE": "DHA phase 1",
+        "DESTINATION": "Masjid e Ayesha",
+        "OUTPUT": ["EV-1"]
+      },
+      {
+        "SOURCE": "Masjid e Ayesha",
+        "DESTINATION": "Clock tower DHA",
+        "OUTPUT": ["EV-1"]
+      },
+      {
+        "SOURCE": "Clock tower DHA",
+        "DESTINATION": "dolmen mall clifton",
+        "OUTPUT": ["EV-1"]
+      },
+      {
+        "SOURCE": "bahria town",
+        "DESTINATION": "damba goth",
+        "OUTPUT": ["EV-2"]
+      },
+      {
+        "SOURCE": "damba goth",
+        "DESTINATION": "toll plaza",
+        "OUTPUT": ["EV-2"]
+      },
+      {
+        "SOURCE": "toll plaza",
+        "DESTINATION": "baqai university",
+        "OUTPUT": ["EV-2"]
+      },
+      {
+        "SOURCE": "baqai university",
+        "DESTINATION": "malir cantt gate 5",
+        "OUTPUT": ["EV-2"]
+      },
+      {
+        "SOURCE": "malir cantt gate 5",
+        "DESTINATION": "malir cantt gate 6",
+        "OUTPUT": ["EV-2"]
+      },
+      {
+        "SOURCE": "malir cantt gate 6",
+        "DESTINATION": "tank chowk",
+        "OUTPUT": ["EV-2"]
+      },
+      {
+        "SOURCE": "tank chowk",
+        "DESTINATION": "model mor",
+        "OUTPUT": ["EV-2"]
+      },
+      {
+        "SOURCE": "model mor",
+        "DESTINATION": "jinnah avenue",
+        "OUTPUT": ["EV-2"]
+      },
+      {
+        "SOURCE": "jinnah avenue",
+        "DESTINATION": "malir halt",
+        "OUTPUT": ["EV-2"]
+      },
+      {
+        "SOURCE": "Malir cantt checkpost 5",
+        "DESTINATION": "Rimjhim Tower",
+        "OUTPUT": ["EV-3"]
+      },
+      {
+        "SOURCE": "Rimjhim Tower",
+        "DESTINATION": "safoora chowrangi",
+        "OUTPUT": ["EV-3"]
+      },
+      {
+        "SOURCE": "safoora chowrangi",
+        "DESTINATION": "Mausamiyat chowrangi",
+        "OUTPUT": ["EV-3"]
+      },
+      {
+        "SOURCE": "Mausamiyat chowrangi",
+        "DESTINATION": "Kamran chowrangi",
+        "OUTPUT": ["EV-3"]
+      },
+      {
+        "SOURCE": "Kamran chowrangi",
+        "DESTINATION": "johar chowrangi",
+        "OUTPUT": ["EV-3"]
+      },
+      {
+        "SOURCE": "johar chowrangi",
+        "DESTINATION": "johar mor",
+        "OUTPUT": ["EV-3"]
+      },
+      {
+        "SOURCE": "johar mor",
+        "DESTINATION": "millenium mall",
+        "OUTPUT": ["EV-3"]
+      },
+      {
+        "SOURCE": "millenium mall",
+        "DESTINATION": "dalmia road",
+        "OUTPUT": ["EV-3"]
+      },
+      {
+        "SOURCE": "dalmia road",
+        "DESTINATION": "bahria university",
+        "OUTPUT": ["EV-3"]
+      },
+      {
+        "SOURCE": "bahria university",
+        "DESTINATION": "antional stadium",
+        "OUTPUT": ["EV-3"]
+      },
+      {
+        "SOURCE": "antional stadium",
+        "DESTINATION": "aga khan hospital",
+        "OUTPUT": ["EV-3"]
+      },
+      {
+        "SOURCE": "aga khan hospital",
+        "DESTINATION": "liaquat national hospital",
+        "OUTPUT": ["EV-3"]
+      },
+      {
+        "SOURCE": "liaquat national hospital",
+        "DESTINATION": "PIB colony",
+        "OUTPUT": ["EV-3"]
+      },
+      {
+        "SOURCE": "PIB colony",
+        "DESTINATION": "jail chowrangi",
+        "OUTPUT": ["EV-3"]
+      },
+      {
+        "SOURCE": "jail chowrangi",
+        "DESTINATION": "Dawood Engineering university",
+        "OUTPUT": ["EV-3"]
+      },
+      {
+        "SOURCE": "Dawood Engineering university",
+        "DESTINATION": "Islamia college",
+        "OUTPUT": ["EV-3"]
+      },
+      {
+        "SOURCE": "Islamia college",
+        "DESTINATION": "people secretariat chowrangi",
+        "OUTPUT": ["EV-3"]
+      },
+      {
+        "SOURCE": "people secretariat chowrangi",
+        "DESTINATION": "numaish",
+        "OUTPUT": ["EV-3"]
+      }
+]
+}
