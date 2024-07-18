@@ -1,4 +1,4 @@
-# map_application
+# EASYRASTA_APP
 
 A new Flutter project.
 
