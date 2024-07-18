@@ -1,4 +1,4 @@
-# EASYRASTA_APP
+# EasyRasta-App
 
 A new Flutter project.
 
