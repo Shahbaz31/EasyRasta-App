@@ -1,16 +1,26 @@
 # EasyRasta-App
 
-A new Flutter project.
 
-## Getting Started
+EasyRasta-App is designed to help users track and get information about various types of vehicles in any location. The app aims to assist people in knowing their transportation options and navigating to their desired destinations efficiently. 
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Vehicle Information**: Provides details about different types of vehicles, including buses, rickshaws, green lines, red lines, local buses, and more.
+- **Location-Based Search**: Users can input source and destination locations to find available vehicles along their route.
+- **Google Maps Integration**: After identifying the vehicle type and name, users can use Google Maps to locate the route to their destination.
+- **Comprehensive Data**: Includes data for various vehicle types to cater to different travel needs.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## How It Works
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Input Locations**: Enter your source and destination locations in the app.
+2. **Get Vehicle Information**: The app will provide information about the vehicles available on the specified route.
+3. **Use Google Maps**: Use the information to locate the route on Google Maps for better navigation.
+
+## Installation
+
+To get started with this project, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/EasyRasta-App.git
