@@ -7,7 +7,7 @@ class LocationService {
 
   Future<String?> getPlaceId(String input) async {
     final String url =
-        'https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input=$input&inputtype=textquery&key=$key';
+        'GOOGLE_API_KEY';
 
     var response = await http.get(Uri.parse(url));
     var json = convert.jsonDecode(response.body);
